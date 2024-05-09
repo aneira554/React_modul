@@ -1,0 +1,51 @@
+.Profil{
+    background-color: #81689D;
+    color: black;
+    padding-left: 50px;
+    font-weight: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.Home{
+    position: relative;
+    text-align: right;
+    margin-right: 10px;
+    padding-bottom: 10px;
+}
+
+.head-text2 {
+    position: relative;
+    text-align: right;
+    margin-right: 10px;
+  }
+  
+  .textkanan{
+    text-align: right;
+    margin-right: 20px;
+  }
+
+.head-text1 {
+    text-align: right;
+    margin-right: 10px;
+  }
+
+.tittle{
+    color: #1F2544;
+    padding-left: 50px;
+}
+
+.text{
+    padding-left: 50px;
+    width: 300px;
+}
+
+.button{
+    background-color: #1F2544;
+    color: #FFD0EC;
+    font-size: medium;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 40px;
+}
